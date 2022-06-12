@@ -1,8 +1,3 @@
-
-
-
-
-
 ### Hi there 👋, I am Mohammad Jayeed
 ![](https://t4.ftcdn.net/jpg/04/86/75/65/360_F_486756567_iMirXEjEeLRjbJECeIlHjy9l8Pta6hrT.jpg)
 
@@ -14,6 +9,8 @@ Skills: PYTHON / SELENIUM / HTML / CSS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohammadjayeed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohdjyd/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadjayeed)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadjayeed&show_icons=true)  
 
