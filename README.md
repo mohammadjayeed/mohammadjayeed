@@ -14,8 +14,9 @@ Skills: PYTHON / SELENIUM / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadjayeed&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/mohammadjayeed)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohammadjayeed)  
 
+![Profile views](https://gpvc.arturio.dev/mohammadjayeed)  
 
 
 
