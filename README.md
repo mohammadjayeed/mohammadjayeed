@@ -4,7 +4,7 @@
 Python programmer who has committed his passion for knowledge
 to be devoted to web development and data science.
 
-Skills: PYTHON / SELENIUM / HTML / CSS 
+Skills: **PYTHON / SELENIUM / HTML / CSS**
 
 
 
