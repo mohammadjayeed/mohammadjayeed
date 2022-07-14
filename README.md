@@ -5,7 +5,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammadjayeed&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadjayeed&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohammadjayeed)  
-
 [![](https://visitcount.itsvg.in/api?id=mohammadjayeed&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
